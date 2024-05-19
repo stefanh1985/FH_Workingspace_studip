@@ -134,6 +134,80 @@ https://hilfe.studip.de/help/5/Basis/MeetingAdmin
 
 https://hilfe.studip.de/admin/Admins/Installationsanleitung
 
+
+## ❓FAQ 
+<div style="width:100%;height:0;padding-bottom:101%;position:relative;"><iframe src="https://giphy.com/embed/hGRlr5VjYsTVZOcWm3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/wind-answer-question-mark-hGRlr5VjYsTVZOcWm3">via GIPHY</a></p>
+
+
+
+<details>
+<summary>Was ist Stud.IP?</summary>
+Stud.IP ist eine Lernplattform, die dir hilft, deine Kurse, Materialien und Kommunikation mit Dozent*innen und Kommiliton*innen zu organisieren.
+</details>
+
+<details>
+<summary>Wie melde ich mich bei Stud.IP an?</summary>
+1. Gehe auf die Stud.IP-Website deiner Hochschule.  
+2. Klicke auf „Login“.  
+3. Gib deinen Benutzernamen und dein Passwort ein, die du von deiner Hochschule erhalten hast.  
+4. Klicke auf „Anmelden“.  
+</details>
+
+<details>
+<summary>Wie finde ich meine Kurse in Stud.IP?</summary>
+1. Melde dich bei Stud.IP an.  
+2. Klicke auf „Meine Veranstaltungen“ im Menü.  
+3. Du siehst eine Liste deiner Kurse. Klicke auf den Kursnamen, um weitere Informationen zu sehen.  
+</details>
+
+<details>
+<summary>Wie lade ich Dateien in Stud.IP hoch?</summary>
+1. Gehe in den Kurs, in den du Dateien hochladen möchtest.  
+2. Klicke auf „Dateien“ im Menü des Kurses.  
+3. Klicke auf „Datei hochladen“.  
+4. Wähle die Datei von deinem Computer aus und klicke auf „Hochladen“.  
+</details>
+
+<details>
+<summary>Wie sende ich Nachrichten an andere Studierende oder Dozent*innen?</summary>
+1. Klicke auf „Nachrichten“ im oberen Menü.  
+2. Klicke auf „Neue Nachricht“.  
+3. Gib den Namen der Person ein, an die du die Nachricht senden möchtest.  
+4. Schreibe deine Nachricht und klicke auf „Senden“.  
+</details>
+
+<details>
+<summary>Wie kann ich meine persönlichen Daten ändern?</summary>
+1. Klicke auf deinen Namen oben rechts im Menü.  
+2. Wähle „Profil bearbeiten“ aus.  
+3. Ändere die gewünschten Informationen und klicke auf „Speichern“.  
+</details>
+
+<details>
+<summary>Was mache ich, wenn ich mein Passwort vergessen habe?</summary>
+1. Gehe zur Login-Seite von Stud.IP.  
+2. Klicke auf „Passwort vergessen?“.  
+3. Gib deine E-Mail-Adresse ein, die mit deinem Stud.IP-Konto verknüpft ist.  
+4. Folge den Anweisungen in der E-Mail, die du erhältst, um dein Passwort zurückzusetzen.  
+</details>
+
+<details>
+<summary>Wie melde ich mich von einem Kurs ab?</summary>
+1. Gehe zu „Meine Veranstaltungen“.  
+2. Klicke auf den Kurs, von dem du dich abmelden möchtest.  
+3. Klicke auf „Abmelden“ oder „Austragen“.  
+4. Bestätige die Abmeldung, wenn du dazu aufgefordert wirst.  
+</details>
+
+<details>
+<summary>Wie kann ich den Stud.IP Support kontaktieren?</summary>
+1. Klicke auf „Hilfe“ oder „Support“ im oberen Menü.  
+2. Wähle „Kontakt“ oder „Support kontaktieren“.  
+3. Gib dein Problem oder deine Frage ein und sende das Formular ab.  
+</details>
+
+
+
 # ❣️ Best Practice Beispiel(e)
 
 
